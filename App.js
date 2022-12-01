@@ -7,8 +7,9 @@ export default function App() {
       <Text>Open up App.js to start working on your app!</Text>
       <StatusBar style="auto" />
       <Button
-  title="Learn More"
+  title="Get Started"
   color="#841584"
+  onPress={(navigation.navigate('Home'))}
 />
   
     </View>
