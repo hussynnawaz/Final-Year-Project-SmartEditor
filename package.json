@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "@ilovepdf/ilovepdf-nodejs": "^0.2.1",
+    "@react-navigation/bottom-tabs": "^6.4.3",
     "@react-navigation/drawer": "^6.5.1",
+    "@react-navigation/material-bottom-tabs": "^6.2.7",
+    "@react-navigation/material-top-tabs": "^6.4.0",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.1",
     "@react-navigation/stack": "^6.3.7",
@@ -18,6 +21,9 @@
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-native": "0.69.6",
+    "react-native-paper": "^4.12.5",
+    "react-native-tab-view": "^3.3.2",
+    "react-native-vector-icons": "^9.2.0",
     "react-native-webview": "^11.23.1"
   },
   "devDependencies": {
