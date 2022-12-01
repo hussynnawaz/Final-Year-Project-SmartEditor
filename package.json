@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@ilovepdf/ilovepdf-nodejs": "^0.2.1",
     "@react-navigation/drawer": "^6.5.1",
     "@react-navigation/native": "^6.0.13",
     "@react-navigation/native-stack": "^6.9.1",
