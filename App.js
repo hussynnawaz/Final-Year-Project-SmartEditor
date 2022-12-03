@@ -1,15 +1,14 @@
 import { StatusBar } from 'expo-status-bar';
+import { NavigationContainer } from '@react-navigation/native';
 import { StyleSheet, Button, Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View>
       <Button
   title="Get Started"
-  color="#841584"
-  onPress={(navigation.navigate('Home'))}
+  color="#FF2D55"
+  onPress={(navigation.navigate('home.js'))}
 />
   
     </View>
