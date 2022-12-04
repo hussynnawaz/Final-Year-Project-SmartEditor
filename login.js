@@ -46,6 +46,7 @@ const UselessTextInput = () => {
         style={{height:40,fontSize:15}}
         onChangeText={onChangeNumber}
         secureTextEntry
+        right={<TextInput.Icon icon="eye" />}
         placeholder=" Enter your password"
         keyboardType="numeric"
       />
@@ -56,9 +57,9 @@ const UselessTextInput = () => {
       </View>
       <Button
   title="Login "
-  color="blue"
+  color="#FF2D55"
 />
-<Text style={{marginTop:10}} >Don’t have an Account? <TouchableOpacity style={{color:"blue"}} >Register</TouchableOpacity></Text>
+<Text style={{marginTop:10}} >Don’t have an Account? <TouchableOpacity style={{color:"#FF2D55"}} >Register</TouchableOpacity></Text>
 </View>
 </Card>
 </View>
@@ -71,8 +72,8 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     paddingTop: Constants.statusBarHeight,
-    backgroundColor: '#ecf0f1',
-    padding: 8,
+    backgroundColor: '#F0F0F0',
+    padding: 10,
   }
 });
 export default UselessTextInput;
