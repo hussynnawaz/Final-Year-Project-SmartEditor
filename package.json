@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@ilovepdf/ilovepdf-nodejs": "^0.2.1",
+    "@nestjs/passport": "^9.0.0",
     "@react-navigation/bottom-tabs": "^6.4.3",
     "@react-navigation/drawer": "^6.5.3",
     "@react-navigation/material-bottom-tabs": "^6.2.7",
@@ -19,6 +20,8 @@
     "@react-navigation/stack": "^6.3.7",
     "expo": "~46.0.13",
     "expo-status-bar": "~1.4.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
     "react": "18.0.0",
     "react-native": "0.69.6",
     "react-native-gesture-handler": "~2.5.0",
@@ -30,7 +33,8 @@
     "react-native-webview": "^11.23.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/passport-local": "^1.0.34"
   },
   "private": true
 }
