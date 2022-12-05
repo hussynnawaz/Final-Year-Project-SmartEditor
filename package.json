@@ -23,6 +23,7 @@
     "express-template-to-pdf": "^1.0.5",
     "json-resume-dynamic": "^0.2.0",
     "jspdf": "^2.5.1",
+    "libreoffice-convert": "^1.4.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "pdf-image": "^2.0.0",
