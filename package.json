@@ -26,6 +26,7 @@
     "libreoffice-convert": "^1.4.1",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
+    "pdf-creator-node": "^2.3.5",
     "pdf-image": "^2.0.0",
     "pdf-lib": "^1.17.1",
     "pdf-officegen": "^3.0.0",
