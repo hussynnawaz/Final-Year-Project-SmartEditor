@@ -44,6 +44,7 @@
     "react-native-tab-view": "^3.3.2",
     "react-native-vector-icons": "^9.2.0",
     "react-native-webview": "^11.23.1",
+    "resumaker": "^1.0.2",
     "tfk-template-to-pdf": "^3.0.1",
     "user-auth": "^3.0.2"
   },
