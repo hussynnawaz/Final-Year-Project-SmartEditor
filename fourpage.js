@@ -17,10 +17,10 @@ const App = () => (
     <Separator />
     <View>
       
-      <Button
+      {/* <Button
         title="Ok"
         color="#FF2D55"   
-      />
+      /> */}
     </View>
 
     
