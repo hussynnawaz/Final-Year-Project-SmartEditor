@@ -5,7 +5,7 @@ const Separator = () => <View style={styles.separator} />;
 
 const App = () => (
   <SafeAreaView style={styles.container}>
-    {/* <View>
+    {/*<View>
       
       <Button
         title="OPEN PDF"
