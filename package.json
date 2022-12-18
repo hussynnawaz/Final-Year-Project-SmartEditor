@@ -38,6 +38,7 @@
     "phantom-html-to-pdf": "^0.7.0",
     "pspdfkit": "^2022.5.2",
     "react": "18.0.0",
+    "react-animations": "^1.0.0",
     "react-native": "0.69.6",
     "react-native-animatable": "^1.3.3",
     "react-native-animated-loader": "^1.0.0",
