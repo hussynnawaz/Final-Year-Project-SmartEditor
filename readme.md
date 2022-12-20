@@ -1,6 +1,10 @@
 <h1>SMART Editor</h1>
-
+| Name  | Registration#     | Title |
+|--------------|-----------|------------|
+| Hussain Ahmed | FA19-BCS-074   | Full Stack Developer        |
+| Bananas      | **1.89**  | 5234       |
 <h2>Abstract</h2>
+
 The PDF Editor application will allow users to edit a PDF Document. By default, a PDF document can be edited. As it is mostly used for viewing online, and for printing. If the user has lost access to the original document, and somehow wants to edit the document and make necessary changes to it, this application will help users to achieve it efficiently and easily. PDF Editor Application will have an interface like a word document, so user can have full access. 
 
 The Smart editor application will have features like scaling the document, changing the font style, font size, color of the font, color of page, page orientation and size. As the application’s name defines it is an editor, so the application will provide full editor access to the document just like any other word processing application like Libre Office, Microsoft Office.  
