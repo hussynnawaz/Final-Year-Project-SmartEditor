@@ -1,5 +1,4 @@
 <h1>SMART Editor</h1>
-<<<<<<< HEAD
  
 |Name           |Registration No| Title        |
 :-------------: |:------------:|:-------------:|
