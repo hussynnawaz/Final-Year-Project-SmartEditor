@@ -1,21 +1,21 @@
 <h1>SMART Editor</h1>
 
-Abstract
+<h2>Abstract</h2>
 The PDF Editor application will allow users to edit a PDF Document. By default, a PDF document can be edited. As it is mostly used for viewing online, and for printing. If the user has lost access to the original document, and somehow wants to edit the document and make necessary changes to it, this application will help users to achieve it efficiently and easily. PDF Editor Application will have an interface like a word document, so user can have full access. 
 
 The Smart editor application will have features like scaling the document, changing the font style, font size, color of the font, color of page, page orientation and size. As the application’s name defines it is an editor, so the application will provide full editor access to the document just like any other word processing application like Libre Office, Microsoft Office.  
 
-Introduction
+<h2>Introduction</h2>
 The main reason of writing this document is to show all details which are present in our SMART editor mobile application. We will explain the purpose of developing this application, its complete features, its working, interface and how user can interact with this app. 
 We will discuss how efficiently it is to edit a PDF Document. If a user has lost access to original and they have to make some necessary changes to the document, like updating the date, adding some new text to document, adjusting font size, style, color, and alignment of text. 
-Problem Statement
+<h2>Problem Statement</h2>
 As the document name says, PDF (Portable Document Format). is an open file format used for exchanging electronic documents. Documents, forms, images, and web pages encoded in PDF can be correctly displayed on any device, including smartphones and tablets. If you distribute your reports in PDF, you can be sure that all of your colleagues will be able to open and read it on their PCs, Macs or Android smartphones
 As some earlier version of this specific application don’t have much features, and was built for Desktop Systems. With this mobile application user will be abble to edit the document directly from phone. 
 Problem Solution for Proposed System
 As this is a mobile application, everyone will have access to it. 
 User can use their phone directly for document editing and conversion. 
 Several features for document conversion. 
-Advantages/Benefits of Proposed System
+#Advantages/Benefits of Proposed System
 User friendly interface
 Light weight mobile application
 Native app available for both Android and iOS. 
