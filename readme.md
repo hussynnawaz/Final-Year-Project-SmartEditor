@@ -1,8 +1,10 @@
 <h1>SMART Editor</h1>
-| Hussain Ahmed | FA19-BCS-074 |
-|:-------------:|:------------:|
-| Ahmed Haroon  | FA19-BCS-018 |
-| Zohaib Nadeem | FA19-BCS-028 |
+ 
+|Name           |Registration No| Title        |
+:-------------: |:------------:|:-------------:|
+| Hussain Ahmed | FA19-BCS-074 |Full Stack Developer |
+| Ahmed Haroon  | FA19-BCS-018 | Front-End Developer |
+| Zohaib Nadeem | FA19-BCS-028 | UI\UX Designer & Front-End Developer |
 
 <h2>Abstract</h2>
 
