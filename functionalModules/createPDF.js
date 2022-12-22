@@ -1,4 +1,4 @@
-<script>
+
     createPdf();
     async function createPdf() {
       const pdfDoc = await PDFLib.PDFDocument.create();
@@ -7,4 +7,4 @@
       page.drawText('Hello World!');
       const pdfDataUri = await pdfDoc.saveAsBase64({ dataUri: true });
       document.getElementById('pdf').src = pdfDataUri;
-</script>
+      
