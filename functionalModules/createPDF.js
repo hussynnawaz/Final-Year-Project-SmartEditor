@@ -7,4 +7,5 @@
       page.drawText('Hello World!');
       const pdfDataUri = await pdfDoc.saveAsBase64({ dataUri: true });
       document.getElementById('pdf').src = pdfDataUri;
-      
+    }
+    
