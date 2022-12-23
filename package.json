@@ -28,6 +28,7 @@
     "expo": "~46.0.13",
     "expo-status-bar": "~1.4.0",
     "express-template-to-pdf": "^1.0.5",
+    "fs": "^0.0.1-security",
     "json-resume-dynamic": "^0.2.0",
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.5.28",
