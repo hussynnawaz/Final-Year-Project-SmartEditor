@@ -1,0 +1,225 @@
+
+COMSATS University Islamabad, 
+Abbottabad Campus
+
+SOFTWARE REQUIREMENTS SPECIFICATION 
+(SRS DOCUMENT)
+for
+
+Smart Editor 
+Version 1.0
+
+By
+Ahmed Haroon     CIIT/FA19-BCS-018/ATD
+Zohaib Nadeem      CIIT/FA19-BCS-028/ATD
+Hussain Ahmed CIIT/FA19-BCS-074/ATD
+
+Supervisor
+Ms. Humaira Jabeen 
+
+Bachelor of Science in Computer Science (2019-2022)
+ 
+ 
+Contents
+Introduction	5
+Purpose	5
+Scope	5
+Overall description	6
+Product perspective	6
+Operating environment	7
+Design and implementation constraints	7
+Requirement identifying technique	8
+Use case diagram	8
+Use case description	8
+Functional Requirements	10
+Functional Requirement X	11
+Non-Functional Requirements	12
+References	12
+
+
+
+
+
+ 
+Revision History
+Name	Date	Reason for changes	Version
+			
+			
+
+
+ 
+
+Application Evaluation History
+
+Comments (by committee)
+*include the ones given at scope time both in doc and presentation	Action Taken
+	
+	
+
+
+
+
+
+
+
+
+Supervised by 
+Humaira Jabeen 
+Signature______________ 
+Introduction
+This SRS document’s purpose is to get an initial overview of the Blockchain based Crowdfunding Web App and its use cases. The document includes all the diagrams etc.
+Purpose
+Identify the product or application whose requirements are specified in this document. 
+Scope
+•	Editing text and images: The ability to add, delete, and modify text and images within a PDF document.
+
+•	Adding and deleting pages: The ability to insert and delete pages within a PDF document.
+
+•	Splitting and merging documents: The ability to split a PDF document into multiple smaller documents, or merge multiple PDF documents into a single document.
+
+•	Annotation and marking up: The ability to add notes, comments, highlights, and other annotations to a PDF document.
+
+•	Conversion: The ability to convert a PDF document into other file formats, such as Microsoft Word or Excel, or vice versa.
+
+•	Security: The ability to password-protect PDF documents, or to add digital signatures to verify the authenticity of a document.
+
+Overall, the scope of this Smart Editor app is to edit a PDF Document by converting it to word document. Here the document will be editable without losing the original content of the pdf document. A PDF document uses multiple compression algorithms, which include LZW77, or Huffman encoding algorithm. These compression algorithms are lossless algorithms. As PDF document are viewer friendly, and used to protect the original content being edited, they cannot be edited dynamically using any applications. 
+ 
+
+Overall description
+Product perspective
+From a product perspective, a PDF editor application is a software tool that allows users to create, edit, and modify PDF documents. It typically provides a range of features such as the ability to add, delete, or modify text and images within the document, as well as the ability to add, delete, or rearrange pages.
+Some PDF editor applications may also offer advanced features such as the ability to annotate the document with notes or highlights, the ability to export the document to other file formats, and the ability to print the document.
+One of the key benefits of a PDF editor application is the ability to make changes to a PDF document without the need for the original source file or specialized software. This can be particularly useful for editing documents that have been shared or received via email, as it allows users to make changes and share the updated document easily.
+Overall, a PDF editor application can be a valuable tool for individuals and organizations looking to edit and modify PDF documents, and can help to improve efficiency and productivity by enabling users to make changes to documents quickly and easily.
+•	Text editing: This allows users to modify the text within a PDF document, including adding, deleting, and formatting text.
+•	Image editing: This allows users to add, delete, or modify images within a PDF document.
+•	Page manipulation: This allows users to add, delete, or rearrange pages within a PDF document.
+•	Annotation: This allows users to add notes, highlights, or other types of annotations to a PDF document.
+•	File conversion: This allows users to export a PDF document to other file formats, such as Word or Excel.
+•	Printing: This allows users to print a PDF document.
+•	Collaboration: This allows multiple users to edit and annotate a PDF document simultaneously.	
+•	Security: This includes features such as password protection and digital signatures to ensure the security and integrity of the PDF document.
+•	Compatibility: This ensures that the PDF editor application can open and edit PDF documents created by other software.
+•	User interface: This refers to the design and layout of the application, which should be intuitive and easy to use.
+ 
+Operating environment
+
+Design and implementation constraints
+
+There are several design and implementation constraints to consider when developing a PDF editor mobile application.
+One constraint is the limited screen size and resolution of mobile devices, which can impact the user interface (UI) and user experience (UX) of the application. To address this constraint, the UI and UX design should be optimized for small screens and should consider the available screen real estate when displaying content.
+
+Another constraint is the limited processing power and memory of mobile devices, which can impact the performance of the application. To address this constraint, the application should be designed to be lightweight and efficient, and should be optimized for the specific hardware and operating system of the target mobile devices.
+
+A third constraint is the varying connectivity and network conditions of mobile devices, which can impact the ability to access and download content. To address this constraint, the application should be designed to handle offline scenarios and to gracefully handle interruptions in connectivity.
+
+A fourth constraint is the need to support a range of mobile devices and operating systems, which can require the development of multiple versions of the application. To address this constraint, the application should be designed to be flexible and adaptable, and should use responsive design techniques to ensure a consistent experience across devices.
+Overall, the design and implementation of a PDF editor mobile application should consider these and other constraints in order to deliver a high-quality and reliable user experience.
+ 
+Requirement identifying technique
+Use case diagram
+Create a use case diagram using MS Visio for your system. For detail guideline to develop use case diagram, follow any of latest UML book]
+Use case description
+The table below indicate a comprehensive use case template filled in with an example drawn from the Cafeteria ordering system (COS). (Appendix C) shows more sample use cases written according to this template. As with all templates, you don’t complete this from top to bottom, and you don’t necessarily need all the template information for every use case. The template is simply a structure in which to store the information you encounter during a use case discussion in an organized and consistent fashion. The template reminds you of all the information you should contemplate regarding each use case. For more detail see Chapter 8, “Understanding user requirements”
+Use Case	Description
+Open PDF	The user selects a PDF file to open in the editor.
+Edit Text	The user modifies the text within the PDF document.
+Add Image	The user adds an image to the PDF document.
+Delete Page	The user removes a page from the PDF document.
+Split PDF	The user splits the PDF document into multiple documents.
+Merge PDF	The user merges multiple PDF documents into a single document.
+Annotate	The user adds annotations, such as notes or highlights, to the PDF document.
+Export PDF	The user exports the edited PDF document in a desired format, such as .pdf or .docx.
+
+ 
+
+Table 1 Show the detail use case template
+Use Case ID:	
+Use Case Name:	
+Actors:	•	Admin: The administrator has full access to the system and can manage user accounts, set permissions, and monitor usage.
+•	Regular users: These are the users who have access to the PDF editor and can create, edit, and convert PDF documents.
+•	External parties: These are individuals or organizations that may interact with the PDF editor application, such as clients or partners. They may be able to view or edit PDF documents depending on the permissions set by the administrator.
+•	System: The PDF document editor application itself, which handles the creation, editing, and conversion of PDF documents.
+•	Hardware: The client computers and server that host and run the PDF document editor application.
+Trigger:	•	Editing or modifying text in a PDF document
+•	Adding or deleting images in a PDF document
+•	Modifying the layout or formatting of a PDF document
+•	Inserting or deleting pages in a PDF document
+•	Merging or splitting PDF documents
+•	Adding or deleting hyperlinks in a PDF document
+•	Adding or deleting annotations or notes in a PDF document
+•	Adding or deleting digital signatures in a PDF document
+•	Converting a PDF document to a different file format
+Protecting a PDF document with password security or other measures
+Preconditions:	The user should have a device with a stable internet connection.
+The user should have a PDF file that they want to edit.
+The user should have a PDF editor app installed on their device.
+The user should have sufficient permissions to edit the PDF file.
+The user should have a clear idea of the edits they want to make to the PDF file.
+
+Postconditions:	•	All changes made to the PDF document are saved and reflected in the final version.
+•	Any added or deleted pages are properly integrated into the document.
+•	Any text or image additions or modifications are accurately displayed in the final version.
+•	Any redactions or annotations are properly implemented and do not disrupt the formatting or layout of the document.
+•	Any password protection or security measures applied to the document are functional and secure.
+•	The final version of the PDF document can be successfully exported and shared with other users or devices..
+
+
+Exceptions:	
+File format not supported - If the user tries to open a file that is not a PDF, the app will throw an exception.
+
+File corrupted or damaged - If the user tries to open a PDF file that is corrupt or damaged, the app will throw an exception.
+
+Insufficient permissions - If the user does not have sufficient permissions to edit the PDF file, the app will throw an exception.
+
+Insufficient memory - If the user tries to edit a large PDF file and the device does not have enough memory to process it, the app will throw an exception.
+
+Network connectivity issues - If the user is trying to edit a PDF file stored on a network drive and there are connectivity issues, the app will throw an exception.
+Business Rules	•	Users must have a valid account and be logged in to access the PDF editor.
+•	Users are only allowed to edit and modify PDF documents that they have permission to access.
+•	Changes made to a PDF document must be saved before the user can log out or close the application.
+•	If a user attempts to import a PDF document that is larger than the maximum file size allowed by the system, an error message will be displayed and the import will not be allowed.
+•	If a user attempts to export a PDF document in a format that is not supported by the system, an error message will be displayed and the export will not be allowed.
+•	If a user attempts to print a PDF document that is larger than the maximum number of pages allowed by the system, an error message will be displayed and the print will not be allowed.
+•	If a user attempts to sign a PDF document without a valid electronic signature, an error message will be displayed and the sign will not be allowed.
+Assumptions:	[List any assumptions.
+1.	e.g. Assume that 15 percent of Patrons will order the daily special (Source: previous 6 months of cafeteria data).
+Functional Requirements
+•	View and edit PDF files: The application should be able to open, view, and edit PDF documents. This may include the ability to add, delete, or modify text and images, as well as to rearrange or delete pages within the document.
+•	Annotate PDF files: The application should allow users to add annotations to PDF documents, such as highlighting, underlining, or adding notes or comments.
+•	Convert PDF files: The application should be able to convert PDF documents to other file formats, such as Word or Excel, and vice versa.
+•	Merge and split PDF files: The application should allow users to merge multiple PDF documents into a single file, or split a single PDF document into multiple files.
+•	Protect PDF files: The application should provide features to password-protect PDF documents, as well as to restrict editing or printing.
+•	Customize PDF files: The application should allow users to customize the appearance of PDF documents, such as by adding watermarks or adjusting the layout.
+•	Support for various PDF versions: The application should support different versions of the PDF specification, such as PDF 1.7 and PDF 2.0.
+•	User-friendly interface: The application should have a user-friendly interface that is easy to navigate and use. It should also have features such as search and find, as well as the ability to bookmark pages and add notes.
+Functional Requirement X
+Itemize the specific functional requirements associated with each feature. These are the software capabilities that must be implemented for the user to carry out the feature’s services or to perform a use case. Describe how the product should respond to anticipated error conditions and to invalid inputs and actions. Uniquely label each functional requirement, as described earlier. You can create multiple attributes for each functional requirement, such as rationale, source, dependencies etc. The following template is required to write functional requirements. For further detail see Chapter 11” Writing excellent requirements”.
+
+Table 2 Show the functional requirement template
+Identifier	Requirement ID
+Title	Title of requirement
+Requirement	Description of requirement which may be written either from user or system perspective e.g.
+If written in user perspective
+The [user class or actor name] shall be able to [do something] [to some object] [qualifying conditions, response time, or quality statement].
+If written in system perspective
+[optional precondition] [optional trigger event] the system shall [expected system response]
+Source	Where this requirement is come from (who originate it)
+Rationale 	Motivation behind the requirement
+Business Rule (if required)	Any restriction, policy, rule that the particular requirement must be fulfilled through its functional behavior
+Dependencies	Requirements ID that are dependent on this requirement
+Priority	High/Medium/Low
+Non-Functional Requirements
+•	Usability: The application should be easy to use and understand, with a clear and intuitive interface.
+•	Performance: The application should open, save, and manipulate PDF files efficiently, with minimal delays or errors.
+•	Compatibility: The application should support a wide range of PDF versions and file formats, and be able to import and export documents with minimal loss of data.
+•	Security: The application should protect the privacy and security of user data, and prevent unauthorized access to or manipulation of PDF documents.
+•	Reliability: The application should be stable and reliable, with minimal crashes or errors.
+•	Scalability: The application should be able to handle large PDF files and a large number of users without degrading performance.
+•	Maintainability: The application should be easy to maintain and update, with a clear and modular design.
+•	Internationalization: The application should support multiple languages and localization options.
+•	Accessibility: The application should be accessible to users with disabilities, and comply with relevant accessibility standards.
+.
+References
+List any documents or other resources to which this SRS refers, if any. These might include user interface style guides, standards, system requirements specifications, interface specifications, or the SRS for a related product. 
