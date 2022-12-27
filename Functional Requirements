@@ -9,8 +9,8 @@ for
 Smart Editor 
 Version 1.0
 
-|Name           |Registration No|
-:-------------: |:------------:|
+|Name         |Registration No|
+:-------------:|:------------:|
 |Ahmed Haroon |CIIT/FA19-BCS-018/ATD|
 |Zohaib Nadeem|CIIT/FA19-BCS-028/ATD|
 |Hussain Ahmed|CIIT/FA19-BCS-074/ATD|
@@ -41,21 +41,8 @@ References	12
 
 
 
- 
-Revision History
-Name	Date	Reason for changes	Version
-			
-			
-
-
  
 
-Application Evaluation History
-
-Comments (by committee)
-*include the ones given at scope time both in doc and presentation	Action Taken
-	
-	
 
 
 
@@ -66,8 +53,7 @@ Comments (by committee)
 
 Supervised by 
 Humaira Jabeen 
-Signature______________ 
-Introduction
+<h2>Introduction</h2>
 This SRS document’s purpose is to get an initial overview of the Blockchain based Crowdfunding Web App and its use cases. The document includes all the diagrams etc.
 Purpose
 Identify the product or application whose requirements are specified in this document. 
