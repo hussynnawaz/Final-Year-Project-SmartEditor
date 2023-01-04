@@ -10,8 +10,7 @@ import Tools from './screens/Tools';
 import UploadFile from './screens/UploadFile';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-const fs = require("fs");
-const config = JSON.parse(fs.readFileSync("./config.json"));
+
 
 const Stack = createNativeStackNavigator()
 export default function App() {
