@@ -18,7 +18,7 @@ export default function App() {
      <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="Getstarted"
+          name="GET STARTED"
           component={Getstarted}
           options={{title: 'Get Started'}}
         />
