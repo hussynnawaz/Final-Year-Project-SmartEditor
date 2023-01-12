@@ -121,12 +121,13 @@ Committee 7
 
 Team Members Individual Tasks/Work Division
 Table 4 Team Member Work Division for Proposed Project
-Student Name
-Student Registration Number
-Responsibility/ Modules
-Hussain Ahmed
-FA19-BCS-074
-Back-end Development
+Student Name   |Student Registration Number| Responsibility|
+:-------------:|:------------:|:-------------:|	
+|Hussain Ahmed	|FA19-BCS-074	|Backend Development|
+|		|		|		|	
+|		|		|		|
+
+
 Document Conversion Module
 Documentation
 Ahmed Haroon
