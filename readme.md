@@ -106,6 +106,13 @@ Database System
 
 Project Stakeholders and Roles
 Table 3Project Stakeholders for Proposed Project
+Stakeholder Name|
+:-------------:|
+|Hussain Ahmed|
+|Ahmed Haroon|
+|Zohaib Nadeem|
+|Ms. Humaira Jabeen|
+|COMSATS University Islamabad|
 
 Project Sponsor
 COMSATS University Islamabad, Abbottabad Campus
@@ -123,31 +130,18 @@ Team Members Individual Tasks/Work Division
 Table 4 Team Member Work Division for Proposed Project
 Student Name   |Student Registration Number| Responsibility|
 :-------------:|:------------:|:-------------:|	
-|Hussain Ahmed	|FA19-BCS-074	|Backend Development|
-|		|		|		|	
-|		|		|		|
+|Hussain Ahmed|FA19-BCS-074	|Backend Development, Documentation|
+|	Ahmed Haroon|	FA19-BCS-018|	Documentation	|	
+|Zohaib Nadeem|FA19-BCS-028|Front-End Development, UI/UX Design, Prototyping|
 
 
-Document Conversion Module
-Documentation
-Ahmed Haroon
-FA19-BCS-018
-Documentation
-Front End Development
-Zohaib Nadeem
-FA19-BCS-028
-Figma Design for Front End 
-Prototyping
+
 
 
 
 Data Gathering Approach
 Write down information and requirement gathering approaches for proposed project e.g. Interview, Questionnaire etc. (Usually 3-5 sentences)	
 Concepts
-React Native
-MySQL
-Vanilla JS	
-Figma 
 Example:
 
 
