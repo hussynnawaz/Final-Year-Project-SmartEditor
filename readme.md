@@ -106,13 +106,13 @@ Database System
 
 Project Stakeholders and Roles
 Table 3Project Stakeholders for Proposed Project
-Stakeholder Name|
-:-------------:|
-|Hussain Ahmed|
-|Ahmed Haroon|
-|Zohaib Nadeem|
-|Ms. Humaira Jabeen|
-|COMSATS University Islamabad|
+Stakeholder Name| Role | 
+:-------------:|:-----------:|
+|Hussain Ahmed|Student |
+|Ahmed Haroon| Student|
+|Zohaib Nadeem|Student|
+|Ms. Humaira Jabeen|Advisor|
+|COMSATS University Islamabad| Sponsor|
 
 Project Sponsor
 COMSATS University Islamabad, Abbottabad Campus
