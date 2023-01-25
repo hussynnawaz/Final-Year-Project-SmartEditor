@@ -59,10 +59,9 @@ And
 Technologies
 
 
-Tools
-Tool   |Version| Environment|
+|Tool          |Version| Environment|
 :-------------:|:------------:|:-------------:|	
-|Hussain Ahmed|FA19-BCS-074	|Backend Development|
+|React Native	|      Latest         |Front End Development|
 |              |            |                    |
 Version
 Environment
