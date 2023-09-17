@@ -9,7 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@a_kawashiro/jendeley": "^0.0.8",
+    "@a_kawashiro/jendeley": "^2.0.10",
     "@ilovepdf/ilovepdf-js": "^0.2.0",
     "@ilovepdf/ilovepdf-nodejs": "^0.2.1",
     "@nestjs/passport": "^9.0.0",
@@ -26,7 +26,7 @@
     "convert-multiple-files-ul": "^1.0.1",
     "easy-pdf-merge": "^0.2.6",
     "electron-pdf": "^20.0.0",
-    "expo": "~46.0.13",
+    "expo": "~49.0.11",
     "expo-status-bar": "~1.4.0",
     "express-template-to-pdf": "^1.0.5",
     "fs": "^0.0.1-security",
